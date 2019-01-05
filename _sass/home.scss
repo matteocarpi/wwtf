@@ -1,0 +1,23 @@
+.logo-home {
+  margin-top: 8rem;
+  margin-bottom: 5rem;
+}
+.latest-post-container {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  button {
+    align-self: center;
+  }
+}
+.about {
+  p {
+    margin-bottom: 2rem;
+  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .gbt {
+    margin: 1.3rem 0 3rem 0;
+  }
+}
