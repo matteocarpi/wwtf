@@ -6,7 +6,20 @@ layout: default
 <p>We draw you into our story, a seamless extension of your own. We aren’t only curious about design, but about our users, our peers, and our clients. We are united in our determination to create meaningful change, taking pride in making long-lasting impact. Be passionately curious</p>
 
 <div class="tour-dates">
-{% for item in site.data.tour-dates %}
-<a href="{{ item.link }}"<span class="tour-date">{{ item.date }} - {{ item.place }} - {{ item.type }}</span></a>
-{% endfor %}
+  {% for item in site.data.tour-dates %}
+    <div class="tour-date">
+
+      <a href="{{ item.link }}"<span class="tour-date">{{ item.date }} - {{ item.place }} - {{ item.type }}</span></a>
+
+    </div>
+  {% endfor %}
+
+<div class="contacts">
+
+  <h1>Contacts</h1>
+  <h4>0049 245 544 2222 2</h4>
+  <h4> <a class="mail" href="mailto:info@mail.com">info@mail.com</a> </h4>
+  <h4>PUT HERE FACEBOOK</h4>
+
+</div>
 </div>

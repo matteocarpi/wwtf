@@ -31,6 +31,11 @@ h3 {
   font-size: 12px;
   color: #2A3434; }
 
+h4 {
+  color: #2A3434;
+  font-family: "Poppins", Helvetica, sans-serif;
+  font-weight: 400; }
+
 p {
   font-family: Poppins-Light;
   font-size: 12px;
@@ -93,3 +98,15 @@ div.footer {
     margin-bottom: 2rem; }
   .about .gbt {
     margin: 1.3rem 0 3rem 0; }
+
+div.tour-dates {
+  margin-top: 2rem; }
+
+div.tour-date {
+  margin-bottom: 2rem; }
+
+.contacts {
+  text-align: center; }
+  .contacts a.mail {
+    color: #851E22;
+    text-decoration: none; }
