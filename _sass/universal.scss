@@ -57,6 +57,17 @@ button {
   margin-bottom: 4rem;
 }
 
+//Header
+.navbar-nav {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 2rem;
+}
+.menu-item + .menu-item {
+  margin: 0 1rem;
+}
+//Footer
+
 .footer ::after {
   content: '';
   flex: 1 0 auto;
