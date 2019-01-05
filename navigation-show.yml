@@ -1,0 +1,8 @@
+- name: GALLERY
+  link: /en/the-show/gallery
+# - name: VIDEO
+#   link: /en/the-show/video
+- name: STORY
+  link: /en/the-show/story
+- name: SHOW
+  link: /en/the-show.html
