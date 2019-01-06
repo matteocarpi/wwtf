@@ -1,12 +1,18 @@
 <div class="navigation-wrap">
-  <nav class="navigation navbar text-center navbar-expand-lg navbar-light bg-light">
+  <!-- {% if page.url != "/" %}
+    <img class="logo" src="{{ site.logo }}" alt="">
+  {% endif %} -->
+  <nav class="navigation {% if page.url == "/" %} home {% endif %} navbar text-center navbar-expand-lg navbar-light bg-light">
+    {% if page.url != "/" %}
+      <a class="navbar-brand" href="#"><img class="logo" src="{{ site.logo }}" alt=""></a>
+    {% endif %}
     <button class="navbar-toggler text-center ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         {% for item in site.data.navigation %}
-          {% if page.url contains item.link %}
+          {% if page.url == item.link %}
             <div class="menu-item">
               <a class="menu-item active" href="{{ item.link | relative_url }}">
                 {{ item.name }}
@@ -23,5 +29,6 @@
       </div>
         </div>
       </div>
+
   </nav>
 </div>

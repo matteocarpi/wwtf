@@ -1,4 +1,10 @@
+* {
+  font-family: Poppins; }
+
 body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   background-color: #FCF3BE;
   transition: 1s ease-in;
   margin: 0; }
@@ -18,28 +24,36 @@ h1 {
   font-size: 24px;
   color: #851E22;
   text-align: center;
-  border-bottom: solid 1px;
   margin-bottom: 2rem; }
 
 h2 {
   font-family: Poppins-SemiBold;
   font-size: 18px;
-  color: #2A3434; }
+  color: #2A3434;
+  margin-bottom: 0; }
 
 h3 {
   font-family: Poppins-Light;
   font-size: 12px;
-  color: #2A3434; }
+  color: #2A3434;
+  font-weight: 300;
+  font-style: italic;
+  margin: 0.5rem 0; }
 
 h4 {
   color: #2A3434;
   font-family: "Poppins", Helvetica, sans-serif;
-  font-weight: 400; }
+  font-weight: 400;
+  font-size: 1rem; }
 
 p {
   font-family: Poppins-Light;
   font-size: 12px;
   color: #2A3434; }
+
+a {
+  color: #851E22;
+  text-decoration: none; }
 
 button {
   background: #81DCE4;
@@ -53,6 +67,13 @@ button {
   padding: 0.3rem 0.6rem;
   margin-bottom: 4rem; }
 
+i {
+  font-size: 30px; }
+
+img.logo {
+  max-width: 11rem;
+  margin: 1rem auto; }
+
 .navbar-nav {
   display: flex;
   justify-content: space-evenly;
@@ -61,9 +82,8 @@ button {
 .menu-item + .menu-item {
   margin: 0 1rem; }
 
-.footer ::after {
-  content: '';
-  flex: 1 0 auto; }
+.sticky-footer {
+  flex: 1; }
 
 footer {
   text-align: center;
@@ -78,6 +98,40 @@ footer {
 
 div.footer {
   width: 100%; }
+
+img {
+  object-fit: contain; }
+
+.content {
+  flex: 1 0 auto; }
+
+a.active {
+  font-weight: 900; }
+
+.menu-item {
+  text-transform: uppercase; }
+
+.navbar-toggler:not(:disabled):not(.disabled) {
+  cursor: pointer;
+  background-color: #fdf3b7; }
+
+.bg-light {
+  background-color: #FCF3BE !important; }
+
+.navbar-toggler {
+  padding: 0 inherit;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 0;
+  margin: 0 auto; }
+
+.navigation {
+  border-bottom: solid 1px #851E22;
+  margin-bottom: 2rem; }
+
+.navigation.home {
+  border-bottom: none;
+  margin: 2rem auto 0 auto; }
 
 .logo-home {
   margin-top: 8rem;
@@ -99,6 +153,22 @@ div.footer {
   .about .gbt {
     margin: 1.3rem 0 3rem 0; }
 
+.collaborators {
+  font-family: 'Poppins-Light';
+  font-style: italic; }
+
+div.person {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem; }
+
+div.companies div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3rem; }
+
 div.tour-dates {
   margin-top: 2rem; }
 
@@ -107,6 +177,3 @@ div.tour-date {
 
 .contacts {
   text-align: center; }
-  .contacts a.mail {
-    color: #851E22;
-    text-decoration: none; }

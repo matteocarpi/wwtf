@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<h1>What are we up to?</h1>
+{% for post in site.posts %}
+  <h2>{{ post.title }}</h2>
+  <h3>{{ post.date }} - {{ post.location }}</h3>
+  {{ post.content }}
+{% endfor %}
