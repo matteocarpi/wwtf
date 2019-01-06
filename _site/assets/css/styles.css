@@ -103,7 +103,8 @@ img {
   object-fit: contain; }
 
 .content {
-  flex: 1 0 auto; }
+  flex: 1 0 auto;
+  margin: 0 2rem; }
 
 a.active {
   font-weight: 900; }
