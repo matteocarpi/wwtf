@@ -163,6 +163,8 @@ div.person {
   flex-direction: column;
   align-items: center;
   margin-top: 2rem; }
+  div.person h4 {
+    margin-top: 1rem; }
 
 div.companies div {
   display: flex;
