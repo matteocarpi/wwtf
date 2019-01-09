@@ -8,10 +8,10 @@ layout: default
 
 <div class="latest-post-container">
   <!-- INSERT HERE THE POST LOOP FOR THE LATEST POST -->
-  <h2>{{ site.posts.first.title }}</h2>
+  <a href="{{ site.posts.first.permalink }}"><h2>{{ site.posts.first.title }}</h2></a>
   <h3 class="date">{{ site.posts.first.date | date_to_string }} - {{ site.posts.first.location }}</h3>
   <div class="post-content">
-    {{ site.posts.first.content }}
+    {{ site.posts.first.content | truncatewords: 75}} <a href="{{ site.posts.first.permalink }}">Read More...</a>
   </div>
 
 </div>
@@ -20,6 +20,8 @@ layout: default
 
 <div class="about">
   <h1>Who are we?</h1>
+  <img src="/uploads/Whilst Walking Team.jpg" alt="Whilst walking team">
+  <br>
   <hr>
   <p>
     The Whilst Walking Theatre Festival is conducted by an international group of artists who use non-hierarchical means of creation to travel through India presenting their compilation of devised performance. As a collective, they have embarked on a theatrical journey through the diverse cultures of India.
@@ -28,7 +30,7 @@ layout: default
     The program of work is conceived by the seven international artists who originate from Austria, England, Italy, Spain and India. They met during their training at The London International School of Performing Arts, a school now based Berlin and well-known for its unique training on Jacques Lecoq’s pedagogy.
   </p>
   <a href="/about"><button type="button" name="button">Tell me more</button></a>
-  <a class="collaborators" href="#"><img src="/assets/img/COLLABORATORS_LOGO_PROVISIONAL.png" alt=""></a>
+  <a target="_blank" class="collaborators" href="http://thecollaborators.in/"><img src="/assets/img/COLLABORATORS_LOGO_PROVISIONAL.png" alt=""></a>
   <span class="collaborators">in collaboration with</span>
-  <a class="gbt" href="https://www.gutbuddiestheatre.com"><img src="/assets/img/GBT-logo.png" alt=""></a>
+  <a target="_blank" class="gbt" href="https://www.gutbuddiestheatre.com"><img src="/assets/img/GBT-logo.png" alt=""></a>
 </div>
