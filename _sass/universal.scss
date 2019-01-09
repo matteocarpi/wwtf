@@ -2,6 +2,7 @@ $red: #851E22;
 $blue: #81DCE4;
 $yellow: #FCF3BE;
 $grey: #2A3434;
+$aqua: #1e8579;
 
 $default: 'Poppins', Helvetica, sans-serif;
 
@@ -29,13 +30,14 @@ hr {
 
 h1 {
   font-family: Poppins-Black;
-  font-size: 24px;
+  font-size: 26px;
   color: $red;
   text-align: center;  margin-bottom: 2rem;
+  text-shadow: 1px 1px 0px #24316D;
 }
 h2 {
   font-family: Poppins-SemiBold;
-  font-size: 18px;
+  font-size: 22px;
   color: $grey;
   margin-bottom: 0;
 }
@@ -43,7 +45,7 @@ h3 {
   font-family: Poppins-Light;
   font-size: 12px;
   color: $grey;
-  font-weight: 300;
+  font-weight: 400;
   font-style: italic;
   margin: 0.5rem 0;
 }
@@ -66,15 +68,15 @@ a {
   }
 }
 button {
-  background: #81DCE4;
+  background: $aqua;
   box-shadow: 0px 3px 6px 0 #24316D;
   font-family: Poppins-Black;
-  font-size: 12px;
-  color: #FFFFFF;
+  font-size: 16px;
+  color: $yellow;
   border: none;
-  border-radius: 1px;
+  border-radius: 10px;
   text-transform: uppercase;
-  padding: 0.3rem 0.6rem;
+  padding: 0.4rem 0.8rem;
   margin-bottom: 4rem;
 }
 i {
