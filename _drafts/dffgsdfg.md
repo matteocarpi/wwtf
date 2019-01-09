@@ -1,6 +1,6 @@
 ---
 title: dffgsdfg
-date: dfgsdfgsd
+date: '09.01.2019'
 location: sdfdsfgdsf
 
 ---
