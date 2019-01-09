@@ -5,23 +5,24 @@ layout: default
 <h1>Who are we?</h1>
 <hr>
 
-{% for item in site.data.people %}
-<div class="person">
+<div class="people">
+  {% for item in site.data.people %}
+  <div class="person">
 
-  <img src="{{ item.avatar }}" alt="">
-  <h4>{{ item.name }}</h4>
-  <p>{{ item.bio }}</p>
+    <img class="avatar" src="{{ item.avatar }}" alt="">
+    <h4>{{ item.name }}</h4>
+    <p>{{ item.bio }}</p>
 
+  </div>
+  {% endfor %}
+  <div class="more-company">
+    <br>
+  <h1>More about the collective</h1>
+    <p>
+      {{ page.content | markdownify }}
+    </p>
+  </div>
 </div>
-{% endfor %}
-<div class="more-company">
-  <br>
-<h1>More about the collective</h1>
-  <p>
-    {{ page.content | markdownify }}
-  </p>
-</div>
-
 <div class="companies">
 
   <div>
