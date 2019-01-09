@@ -30,10 +30,6 @@ More important and interesting words were written on a couple of local newspaper
 
 'Till soon!
 
-<<<<<<< HEAD
-The Whilst Walking Team
-=======
 _The Whilst Walking Team_
 
 **GIF OF FORTNITE**
->>>>>>> 8af173180912cb7d862c9f5b80cdae3da6113bbb
