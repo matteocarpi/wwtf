@@ -2,24 +2,29 @@
 layout: default
 ---
 <h1>Tour Details</h1>
-<hr>
-<p>We draw you into our story, a seamless extension of your own. We aren’t only curious about design, but about our users, our peers, and our clients. We are united in our determination to create meaningful change, taking pride in making long-lasting impact. Be passionately curious</p>
 
-<div class="tour-dates">
-  {% for item in site.data.tour-dates %}
-    <div class="tour-date">
-
-      <a href="{{ item.link }}"<span class="tour-date">{{ item.date }} - {{ item.place }} - {{ item.type }}</span></a>
-
-    </div>
-  {% endfor %}
+<p>The Showcase is informed and inspired by the performer’s contemporary European contexts, alongside myths and the personal stories of the creators. The collective is for the first time present in front of Indian audiences exploring the universal appeal of creation methods.
+  <br>
+  <br>
+The festival will offer Workshops exploring the devising process used by the collective. But like with every devising group, the collective has a way of working that is malleable and welcoming to the participation of new members. This is a way for the group to share their methods of theatrical creation with young to mid-career artistes across India to evolve their shared performance vocabulary.
+ </p>
 
 <div class="contacts">
 
-  <h1>Contacts</h1>
-  <h4>0049 245 544 2222 2</h4>
+  <h1>Booking</h1>
+  <h4>PUT NUMBER HERE</h4>
   <h4> <a class="mail" href="mailto:info@mail.com">info@mail.com</a> </h4>
 <a href="https://www.facebook.com/Whilst-Walking-Theatre-Festival-2288132128109986/"> <i class="fab fa-facebook-f"></i></a>
 
 </div>
+<div class="tour-dates">
+    {% for item in site.data.gigs %}
+      {% if item.published == true %}
+      <div class="tour-date">
+
+        <a href="{{ item.link }}" target="_blank"><span class="tour-date">{{ item.date }} - <strong>{{ item.place }}</strong> - <em> {{ item.format }}</em></span></a>
+
+      </div>
+        {% endif %}
+    {% endfor %}
 </div>

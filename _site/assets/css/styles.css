@@ -54,6 +54,8 @@ p {
 a {
   color: #851E22;
   text-decoration: none; }
+  a :active {
+    color: #851E22; }
 
 button {
   background: #81DCE4;

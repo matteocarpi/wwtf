@@ -3,48 +3,56 @@
   venue: Sudarshan Rangamanch
   format: Workshop
   link: https://www.facebook.com/events/287797358546672/
+  published: true
 - place: Pune
   date: 20.01.2019
   time: 18.30
   venue: TIFA Working Studio
   format: Showcase
   link: https://in.bookmyshow.com/plays/whilst-walking-showcase/ET00091236
+  published: true
 - place: Bangalore
   date: 22-26.01.2019
   time:
   venue: Untitled Space
   format: Workshop
   link: https://www.facebook.com/events/785595208439688/
+  published: true
 - place: Bangalore
   date: 27.01.2019
   time: 19.00
   venue: Untitled Space
   format: Showcase
   link: https://www.facebook.com/Untitledartsfoundation/?eid=ARCY6TP6n8IXP1XHeYfEt--ivNM3qshZbkksDEvAQIaS4aHhXh3Al0bOai1o-X2hI7AtuhMlB7weqZU_
+  published: true
 - place: Kolkata
   date: 8-9.02.2019
   time: 19.00
   venue: Padatik
   format: Showcase
   link: http://www.padatik.co.in/
+  published: true
 - place: Shantiniketan
   date: 10-16.02.2019
   time:
   venue: Indrya Performance Space
   format: Workshop
   link:
+  published: true
 - place: Agra
   date: 20-23.02.2019
   time:
   venue: Up 80
   format: Workshop
   link:
+  published: true
 - place: Agra
   date: 24.02.2019
   time: 19.00
   venue: Up 80
   format: Showcase
   link:
+  published: true
 - place: Delhi
   date: 25.02.2019
   time: 19.00
@@ -58,3 +66,4 @@
   venue: Castiko
   format: Workshop
   link: https://in.bookmyshow.com/plays/whilst-walking-showcase/ET00091236
+  published: true
