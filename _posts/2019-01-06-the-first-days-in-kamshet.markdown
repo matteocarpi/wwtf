@@ -16,11 +16,11 @@ The appointment for breakfast is at 9am, but the jetlag has not been the only el
 
 Nonetheless, of course, we also started rehearsing, worry not. The spacious yellow house, original building of the residency hosts us for a group warm-up before we break into smaller groups to work and develop the different pieces that we will be touring.
 
-**THE YELLOW HOUSE**
+![The Yellow house](uploads/yellow-house-outside.jpg)
 
 Over here the winter gives 30° C, full sun all day and swims in the lake after lunch. (We don't even wait for the three hours of digestion before getting into the water, because we are rebels). All this, together with the wonderful meals that Shukkra, Babita, Rajeev and Vinod are preparing for us is certainly keeping up our creativity.
 
-**PHOTO OF THE LAKE**
+![The Lake](uploads/kamshet-lake.jpg)
 
 The closest village to this corner of heaven is Kamshet, where we could buy: a mop, a rope, indian toothpaste, tiger balm, batteries, Julia risked her life eating an unwashed fruit form the market and Matteo could buy some underpants. Ah yes, that happened, he forgot to pack his underwear, and only realised after three days...
 
