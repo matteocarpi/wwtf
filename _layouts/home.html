@@ -7,7 +7,7 @@ layout: default
 <hr>
 
 <div class="latest-post-container">
-  <!-- INSERT HERE THE POST LOOP FOR THE LATEST POST -->
+  {{ site.posts.first.image}}
   <a href="{{ site.posts.first.permalink }}"><h2>{{ site.posts.first.title }}</h2></a>
   <h3 class="date">{{ site.posts.first.date | date_to_string }} - {{ site.posts.first.location }}</h3>
   <div class="post-content">
