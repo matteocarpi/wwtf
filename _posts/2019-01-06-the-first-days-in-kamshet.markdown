@@ -4,15 +4,12 @@ layout: post
 date: '09.01.2019'
 location: Kamshet
 permalink: "/kamshet"
+image: "/uploads/yellow-house-outside.jpg"
 
 ---
-![](/uploads/Whilst Walking Team.jpg)
-
 It has been a few days now since we landed in Mumbai and drove through the busy Indian night to reach "The Company Theatre" a theatre residency in the countryside next to [Kamshet](https://www.google.com/maps/place/Kamshet,+Maharashtra+410405/@18.7644399,73.5381673,14z/data=!3m1!4b1!4m5!3m4!1s0x3bc2abf1867b9187:0x7ec39c03e715fbdb!8m2!3d18.7517777!4d73.5513956). The Jetlag is slowly fading away, but the excitement and gratefulness to be in this place does not seem to leave us. Niall is eating loads, as always, and points out at how much Matteo is eating, as always.
 
 The appointment for breakfast is at 9am, but the jetlag has not been the only element keeping us awake late at night and sticking to the schedule seems to be hard. The traditional chantings to the gods that happen in this period of the year, transmitted all over the village through old metal speakers, have been our constant lullaby.
-
-**SOUND OF THE PRAYERS**
 
 Nonetheless, of course, we also started rehearsing, worry not. The spacious yellow house, original building of the residency hosts us for a group warm-up before we break into smaller groups to work and develop the different pieces that we will be touring.
 
