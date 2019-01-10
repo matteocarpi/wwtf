@@ -7,10 +7,11 @@ layout: default
 <hr>
 
 <div class="latest-post-container">
-  {{ site.posts.first.image}}
   <a href="{{ site.posts.first.permalink }}"><h2>{{ site.posts.first.title }}</h2></a>
   <h3 class="date">{{ site.posts.first.date | date_to_string }} - {{ site.posts.first.location }}</h3>
+  <img src="{{ site.posts.first.image }}" alt="">
   <div class="post-content">
+    <br>
     {{ site.posts.first.content | truncatewords: 75}} <a href="{{ site.posts.first.permalink }}">Read More...</a>
   </div>
 
