@@ -8,16 +8,17 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
+- type: file
+  name: image
+  label: Title Image
+  description: Put here the image you would like to show as title of the post
+- type: datetime
+  name: date
   label: Date
-  type: text
-  hidden: false
-  default: ''
 - name: location
   label: Location
   type: text
   hidden: false
   default: ''
 pages:
-- _posts/2019-01-09-sdf.md
-- _posts/2019-01-09-dffgsdfg.md
+- _posts/2019-01-06-the-first-days-in-kamshet.markdown
