@@ -7,7 +7,7 @@ $aqua: #1e8579;
 $default: 'Poppins', Helvetica, sans-serif;
 
 * {
-  transition: 1s ease-in;
+  transition: 0.12s ease-in;
   font-family: Poppins;
 }
 body {
@@ -30,6 +30,7 @@ hr {
 }
 
 h1 {
+  margin-top: 4rem;
   font-family: Poppins-Black;
   font-size: 26px;
   color: $red;
@@ -78,7 +79,9 @@ button {
   border-radius: 10px;
   text-transform: uppercase;
   padding: 0.4rem 0.8rem;
-  margin-bottom: 4rem;
+}
+button:hover {
+  cursor: pointer;
 }
 i {
   font-size: 30px;
@@ -93,7 +96,7 @@ img.logo {
   justify-content: space-evenly;
   margin: 0 2rem;
 }
-.menu-item + .menu-item {
+.menu-item {
   margin: 0 1rem;
 }
 //Footer
