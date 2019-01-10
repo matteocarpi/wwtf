@@ -7,6 +7,7 @@ $aqua: #1e8579;
 $default: 'Poppins', Helvetica, sans-serif;
 
 * {
+  transition: 1s ease-in;
   font-family: Poppins;
 }
 body {
@@ -43,7 +44,7 @@ h2 {
 }
 h3 {
   font-family: Poppins-Light;
-  font-size: 12px;
+  font-size: 15px;
   color: $grey;
   font-weight: 400;
   font-style: italic;
