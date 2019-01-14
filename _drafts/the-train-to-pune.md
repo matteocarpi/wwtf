@@ -18,3 +18,9 @@ It's the first train journey in India (for most of us) and the first public toil
 At Pune Shivajinagar Station, we are welcomed by the curiosity of the "Auto" drivers. We squeeze in two of them and the horns go off to free our way towards Sudarshan Rangamanch, where our first workshop of the tour will take place. Only few know that Indian vehicles can't go forwards unless they are constantly honking. It's not an angry honk, it's a simple statement of existence and intention.
 
 **PHOTO FROM INSIDE AUTO**
+
+A couple of zig zags through overfilled busses, motorcycles and our auto stops in front of [Sudarshan Rangamanch](https://www.facebook.com/MCCsudarshan/), the theatre studios where our workshop will take place. The entrance is in the tight courtyard of one of the buildings that limits the narrow dusty road we just came from. 
+
+In the hour that separates us from the beginning of the workshop the excitement grows as the participants gather in the courtyard. We get told off several times for being too loud whilst some auditions are going on in one of the studios. We gather our 17 participants on the top-floor studio, it's nice spacious and fresh, but a few seconds of us playing games and more complaint come from the auditions studio. We get confined in the basement :-(.
+
+The day goes fast, 
