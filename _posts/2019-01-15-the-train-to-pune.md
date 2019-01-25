@@ -2,7 +2,7 @@
 title: A Train to Pune
 layout: post
 permalink: /a-train-to-pune
-image: "/uploads/Team in train.jpg"
+image: "/uploads/Team-in-train.jpg"
 date: 2019-01-15 00:00:00 +0530
 location: Pune, Maharashtra
 
