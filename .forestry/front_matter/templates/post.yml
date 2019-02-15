@@ -8,6 +8,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: text
+  name: permalink
+  label: Permalink
+  config:
+    required: true
 - type: file
   name: image
   label: Title Image
