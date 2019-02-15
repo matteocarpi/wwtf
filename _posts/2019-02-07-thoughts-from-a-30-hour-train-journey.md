@@ -13,7 +13,7 @@ The tour has now properly started, with a show in Pune full of unexpected compli
 
 Let us not bore you with a detailed narration of our last 21 days, but instead have a taste of our journey through a couple of highlights.
 
-## **The showcase in Pune**
+**The showcase in Pune**
 
 We woke up and Matteo didn’t. A delirious fever and stomach rollercoaster kept him busy for most of the day. Whilst the rest of the team prepared stage and props, he enjoyed a deep sleep with sunglasses on the audience’s mattresses.
 
@@ -27,15 +27,13 @@ The train was relatively short. Only 19h + 3h delay. Between a chai tea, a cucum
 
 We were prepared to the worst by Titas’ usual dramatic presentation, In reality it felt like home from the beginning. Yes the traffic combed our hair, but the best masala dosa we had ever had put us back in track.
 
-**Photo of Bangalore**
+**![](/uploads/Group picture.jpg)**
 
 Chapeau to the workshop participants who very impressively surpassed our expectations by taking our inputs of writing through the body to devise two very inspiring pieces of work.
 
 This time the lighting service didn’t let us down.
 
 The show run smoothly gifting us a pleasant farewell night to Bangalore. A special thanks goes to **Untitled Space** for creating and maintaining such a cosy space.
-
-**![](/uploads/Group picture.jpg)**
 
 **Kalarigram (Auroville)**
 
@@ -45,7 +43,7 @@ What is it like to wake up at 5 in the morning and train for 2h in one of the mo
 
 Maruti and Minuti, the one month old goats, and Jonny and Bhairava the more than sweet guard dogs soothed the pain in our muscles.
 
-Pietro and Bubun visited us in this week of holiday/training, keeping us company whilst training and visiting the utopia-seeking community of Auroville, its farms and idealistic vegan reforestation projects.
+**Pietro** and **Bubun** visited us in this week of holiday/training, keeping us company whilst training and visiting the utopia-seeking community of Auroville, its farms and idealistic vegan reforestation projects.
 
 Between a hitchhike and the other a jump in the Indic Ocean and a Techno Dub party at Solitude Farm in Auroville, it was already time to leave for Chennai.
 
