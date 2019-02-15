@@ -1,5 +1,6 @@
 ---
 title: Thoughts from a 30 hour Train Journey
+layout: post
 image: "/uploads/IMG_0046.JPG"
 date: 2019-02-07 00:00:00 +0530
 location: Somwhere on a Train
