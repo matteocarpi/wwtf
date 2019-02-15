@@ -3,6 +3,7 @@ title: Thoughts from a 30 hour Train Journey
 image: "/uploads/IMG_0046.JPG"
 date: 2019-02-07 00:00:00 +0530
 location: Somwhere on a Train
+permalink: thoughts-from-a-30-hour-train-journey
 
 ---
 It’s been three intense weeks and only now we find time to sit down and write a couple of lines, in our 30h train journey that from Chennai brings us to Kolkata.
