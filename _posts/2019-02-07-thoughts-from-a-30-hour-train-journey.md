@@ -1,5 +1,5 @@
 ---
-title: Thoughts from a 30 hour Train Journey
+title: The Coromandal Express
 layout: post
 image: "/uploads/IMG_0046-2.JPG"
 date: 2019-02-06 18:30:00 +0000
