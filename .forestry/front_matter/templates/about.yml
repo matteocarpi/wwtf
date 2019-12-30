@@ -1,4 +1,23 @@
 ---
 label: About
 hide_body: true
-fields: []
+fields:
+- name: page_title
+  type: text
+  config:
+    required: false
+  label: Page Title
+- name: second_title
+  type: text
+  config:
+    required: false
+  label: Biography Title
+- name: collective_biography
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Collective Biography
