@@ -1,7 +1,6 @@
 ---
 label: post
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -33,6 +32,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2019-02-07-thoughts-from-a-30-hour-train-journey.md
-- _posts/2019-01-15-the-train-to-pune.md
 - _posts/2019-01-06-the-first-days-in-kamshet.markdown
+- _posts/2019-01-15-the-train-to-pune.md
+- _posts/2019-02-07-thoughts-from-a-30-hour-train-journey.md
