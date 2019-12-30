@@ -1,4 +1,24 @@
 ---
 label: Home
 hide_body: true
-fields: []
+fields:
+- name: title_for_blog
+  type: text
+  config:
+    required: false
+  label: Title For Blog
+  description: Default 'What are we up to?'
+- name: title_for_biography
+  type: text
+  config:
+    required: false
+  label: Title For Biography
+- name: biography
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Biography
