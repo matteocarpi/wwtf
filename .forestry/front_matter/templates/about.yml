@@ -7,6 +7,14 @@ fields:
   config:
     required: false
   label: Page Title
+- name: team
+  type: blocks
+  label: Team
+  template_types:
+  - person
+  config:
+    min: 
+    max: 
 - name: second_title
   type: text
   config:
