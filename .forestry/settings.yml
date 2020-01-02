@@ -18,9 +18,13 @@ sections:
 - type: document
   path: tour.md
   label: Tour
+- type: heading
+  label: Site Info
 - type: document
   path: _data/navigation.yml
   label: Top Bar
+- type: heading
+  label: Blog
 - type: jekyll-posts
   label: Posts
   create: all
