@@ -1,0 +1,28 @@
+---
+label: Info
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: email
+  label: email
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: baseurl
+  label: baseurl
+- type: text
+  name: url
+  label: url
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: markdown
+  label: markdown
+- type: list
+  name: plugins
+  label: plugins
