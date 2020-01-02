@@ -1,30 +1,34 @@
 ---
 layout: default
 ---
-<h1>Tour Details</h1>
+<h1>{{ page.page_title }}</h1>
 
-<p>The Showcase is informed and inspired by the performer’s contemporary European contexts, alongside myths and the personal stories of the creators. The collective is for the first time present in front of Indian audiences exploring the universal appeal of creation methods.
-  <br>
-  <br>
-The festival will offer Workshops exploring the devising process used by the collective. But like with every devising group, the collective has a way of working that is malleable and welcoming to the participation of new members. This is a way for the group to share their methods of theatrical creation with young to mid-career artistes across India to evolve their shared performance vocabulary.
- </p>
+{{ page.about_the_tour | markdownify }}
 
 <div class="contacts">
 
-  <h1>Booking</h1>
-  <h4>+91 84 520 59 383</h4>
-  <h4> <a class="mail" href="mailto:thecollaboratorsws@gmail.com">thethecollaboratorsws@gmail.com</a> </h4>
-<a href="https://www.facebook.com/Whilst-Walking-Theatre-Festival-2288132128109986/"> <i class="fab fa-facebook-f"></i></a>
+  <h1>{{ page.booking_section_title }}</h1>
+  {{ page.contacts | markdownify }}
+<a href="{{page.facebook_link }}"> <i class="fab fa-facebook-f"></i></a>
 
 </div>
 <div class="tour-dates">
-    {% for item in site.data.gigs %}
-      {% if item.published == true %}
+    {% for date in page.tour_dates %}
+      
       <div class="tour-date">
 
-        <a href="{{ item.link }}" target="_blank"><span class="tour-date">{{ item.date }} - <strong>{{ item.place }}</strong> - <em> {{ item.format }}</em></span></a>
+        <a href="{{ date.link }}" target="_blank">
+          <span class="tour-date">
+          {%- if date.start_date == date.end_date -%}
+            {{ date.start_date | date_to_long_string: "ordinal"}} -   
+          {%- else -%}
+            {{ date.start_date | date_to_long_string: "ordinal"}} - {{ date.end_date |  date_to_long_string: "ordinal" }}  
+          {%- endif -%}
+            <strong> @{{ date.location }}</strong>
+          </span>
+        </a>
 
       </div>
-        {% endif %}
+
     {% endfor %}
 </div>
