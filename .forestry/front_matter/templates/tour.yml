@@ -47,3 +47,11 @@ fields:
   config:
     required: false
   label: Facebook Link
+- name: tour_dates
+  type: blocks
+  label: Tour Dates
+  template_types:
+  - tour-date
+  config:
+    min: 
+    max: 
