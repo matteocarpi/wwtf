@@ -5,9 +5,45 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
   label: title
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
+- name: page_title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: about_the_tour
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: About the Tour
+- name: booking_section_title
+  type: text
+  config:
+    required: false
+  label: Booking Section Title
+- name: contacts
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Contacts
+- name: facebook_link
+  type: text
+  config:
+    required: false
+  label: Facebook Link
