@@ -123,9 +123,13 @@ team:
     evolves from her interest and practice in street performing arts, theatre plays
     and opera singing.
 - template: person
-  profile_picture: ''
-  name: ''
-  biography: ''
+  profile_picture: "/uploads/vivek.jpg"
+  name: Vivek Kumar
+  biography: an Alumnus of National School of Drama, is an actor, director and instructor.
+    He has trained for many years in Red-nose Clowning, Chhau, Kudiyattam, and Alexander
+    Technique. He has been awarded by Inlaks India Foundation for his project called
+    'Process of a Performer' and in 2012, won the Short & Sweet Theatre Festival (Delhi)
+    in the Best Play and Best Director categories.
 second_title: More about the collective
 
 ---
