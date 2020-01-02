@@ -1,4 +1,28 @@
 ---
 label: Tour Date
 hide_body: false
-fields: []
+display_field: location
+fields:
+- name: start_date
+  type: datetime
+  label: Start Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: end_date
+  type: datetime
+  label: End Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
