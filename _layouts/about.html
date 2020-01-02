@@ -2,51 +2,37 @@
 layout: default
 ---
 
-<h1>Who are we?</h1>
+<h1>{{ page.page_title }}</h1>
 <hr>
 
-<iframe src="https://giphy.com/embed/fMzhF1OCcG3vFlAOKe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fMzhF1OCcG3vFlAOKe"></a></p>
-
 <div class="people">
-  {% for item in site.data.people %}
+  {% for person in page.team_members %}
   <div class="person">
 
-    <img class="avatar" src="{{ item.avatar }}" alt="">
-    <h4>{{ item.name }}</h4>
-    <p>{{ item.bio }}</p>
+    <img class="avatar" src="{{ person.headshot }}" alt="">
+    <h4>{{ person.name }}</h4>
+    <p>{{ person.biography }}</p>
 
   </div>
   {% endfor %}
 
-  <p> <em>Transition Musics are offered by <strong>Patrick Soul</strong> </em> </p>
-
   <div class="more-company">
     <br>
-  <h1>More about the collective</h1>
+  <h1>{{ page.biography_title }}</h1>
     <p>
-      {{ page.content | markdownify }}
+      {{ page.collective_biography | markdownify }}
     </p>
   </div>
 </div>
 
 <div class="companies">
-
-  <div>
-    <a href="http://www.thecollaborators.in"><img src="/assets/img/COLLABORATORS_LOGO_PROVISIONAL.png" alt=""></a>
+ {% for partner in page.partners %}
+ 
+    <div>
+    <a href="{{ partner.link }}"><img src="{{ partner.logo }}" alt=""></a>
     <br>
-    <p>“The Collaborators” is an Organisation working in the field of research and development of performance arts across disciplines. In this initial phase of our journey we are exploring the interdisciplinary relationships and inspirations between different live art practices and its elements – space, time, bodies of both performers and spectators.</p>
-  </div>
+    {{ partner.biography | marksownify }}
+    </div>
 
-  <div>
-    <a href="https://www.gutbuddiestheatre.com"><img src="/assets/img/GBT-logo.png" alt=""></a>
-    <br>
-    <p>The company was formed during a master course in Devising Theatre and Performance at LISPA Berlin, in collaboration with Rose Bruford College London. We are a group of interdisciplinary artists who collaborate without the reliance on particular hierarchies.
-      <br>
-      <br>
-    They create devised performances using a minimal aesthetic, and an artistic language that is malleable and accommodating to our visiting collaborators.
-      <br>
-      <br>
-    Their first collaborator was a fish from LIDL.
-    </p>
-  </div>
+  {% endfor %}
 </div>
