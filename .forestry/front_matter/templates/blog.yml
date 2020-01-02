@@ -5,6 +5,13 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
+- name: page_title
+  type: text
+  config:
+    required: false
+  label: Title
