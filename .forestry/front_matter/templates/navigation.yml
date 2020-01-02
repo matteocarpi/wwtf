@@ -12,3 +12,6 @@ fields:
   - type: text
     name: link
     label: link
+    hidden: true
+  config:
+    labelField: name
