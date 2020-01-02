@@ -74,9 +74,14 @@ partners:
     between different live art practices and its elements – space, time, bodies of
     both performers and spectators."
 - template: partnter
-  logo: ''
-  name: ''
-  biography: ''
+  logo: "/uploads/GBT-logo.png"
+  name: Gut Buddies Theatre
+  biography: "The company was formed during a master course in Devising Theatre and
+    Performance at LISPA Berlin, in collaboration with Rose Bruford College London.
+    We are a group of interdisciplinary artists who collaborate without the reliance
+    on particular hierarchies.  \n  \nThey create devised performances using a minimal
+    aesthetic, and an artistic language that is malleable and accommodating to our
+    visiting collaborators.  \n  \nTheir first collaborator was a fish from LIDL."
 
 ---
 The Whilst Walking Theatre Festival includes performances, theatrical experiments, and workshops, all pointing towards their unique use of a Theatre Lab setting.
