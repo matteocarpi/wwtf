@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: blog.md
+  label: Blog
+  match: "**/*"
+- type: document
   path: tour.md
   label: Tour
 - type: document
