@@ -95,6 +95,15 @@ team:
   biography: finished her post-graduation in performance devising from FLAME School
     of Performing Arts before joining her LISPA training. She is trained in various
     traditional Indian movement forms and specialised at personal history in Performance.
+- template: person
+  profile_picture: "/uploads/niall.jpg"
+  name: Niall Fallon
+  biography: He is a performer, musician, and director of physical performance. He
+    trained as a Theatre Maker at the University of Kent. After working as an actor
+    for Theatre and Film in England and touring internationally, he then relocated
+    to Berlin where he studied at the London International School of Performing Arts
+    (LISPA). He is now working as a theatre practitioner internationally and co-founder
+    of Gut Buddies Theatre.
 second_title: More about the collective
 
 ---
