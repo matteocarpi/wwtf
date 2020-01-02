@@ -1,6 +1,7 @@
 ---
 label: Person
 hide_body: true
+display_field: name
 fields:
 - name: profile_picture
   type: file
