@@ -23,7 +23,6 @@ sections:
 - type: document
   path: _config.yml
   label: Info
-  match: "**/*"
 - type: document
   path: _data/navigation.yml
   label: Top Bar
