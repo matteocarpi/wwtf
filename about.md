@@ -26,9 +26,11 @@ team_members:
     (LISPA). He is now working as a theatre practitioner internationally and co-founder
     of Gut Buddies Theatre.
 - template: team-member
-  headshot: ''
-  name: ''
-  biography: ''
+  headshot: "/uploads/julia.jpg"
+  name: Julia Vandehof
+  biography: is actress, director and a theatre pedagogue. She is drawn to the mythical
+    and dream-like spaces and the dark side of the moon, interested in interdisciplinary
+    performance, she works with body, collective devising and collaborative work.
 - template: team-member
   headshot: ''
   name: ''
