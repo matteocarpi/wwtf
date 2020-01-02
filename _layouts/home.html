@@ -3,7 +3,7 @@ layout: default
 ---
 <img class="logo-home" src="{{ site.logo }}" alt="">
 <a href="/tour"><button class="btn-tour" type="button" name="button">Tour Dates</button></a>
-<h1>What are we up to?</h1>
+<h1>{{ page.title_for_blog }}</h1>
 <hr>
 
 <div class="latest-post-container">
@@ -19,16 +19,11 @@ layout: default
 <a href="/blog"><button type="button" name="button">See all posts</button></a>
 
 <div class="about">
-  <h1>Who are we?</h1>
-  <img src="/uploads/Whilst Walking Team.jpg" alt="Whilst walking team">
+  <h1>{{ page.title_for_biography }}</h1>
+  <img src="{{ page.team_picture }}" alt="Whilst walking team">
   <br>
   <hr>
-  <p>
-    The Whilst Walking Theatre Festival is conducted by an international group of artists who use non-hierarchical means of creation to travel through India presenting their compilation of devised performance. As a collective, they have embarked on a theatrical journey through the diverse cultures of India.
-  </p>
-  <p>
-    The program of work is conceived by the seven international artists who originate from Austria, England, Italy, Spain and India. They met during their training at The London International School of Performing Arts, a school now based Berlin and well-known for its unique training on Jacques Lecoq’s pedagogy.
-  </p>
+  {{ page.biography | markdownify }}
   <a href="/about"><button type="button" name="button">Tell me more</button></a>
 
 
