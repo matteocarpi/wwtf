@@ -82,6 +82,13 @@ partners:
     on particular hierarchies.  \n  \nThey create devised performances using a minimal
     aesthetic, and an artistic language that is malleable and accommodating to our
     visiting collaborators.  \n  \nTheir first collaborator was a fish from LIDL."
+team:
+- template: person
+  profile_picture: "/uploads/ainhoa.jpg"
+  name: Ainhoa Hevia Uria
+  bio: is a graduate in Acting and Dramatic Art from the ESAD Asturias, has been working
+    as a performer and director in Spain, Portugal and Germany for over five years.
+second_title: ''
 
 ---
 The Whilst Walking Theatre Festival includes performances, theatrical experiments, and workshops, all pointing towards their unique use of a Theatre Lab setting.
