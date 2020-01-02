@@ -31,7 +31,9 @@ layout: default
     <div>
     <a href="{{ partner.link }}"><img src="{{ partner.logo }}" alt=""></a>
     <br>
-    {{ partner.biography | marksownify }}
+
+    {{ partner.biography | markdownify }}
+
     </div>
 
   {% endfor %}
