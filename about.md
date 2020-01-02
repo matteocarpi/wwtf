@@ -88,7 +88,8 @@ team:
   name: Ainhoa Hevia Uria
   bio: is a graduate in Acting and Dramatic Art from the ESAD Asturias, has been working
     as a performer and director in Spain, Portugal and Germany for over five years.
-second_title: ''
+  biography: ''
+second_title: More about the collective
 
 ---
 The Whilst Walking Theatre Festival includes performances, theatrical experiments, and workshops, all pointing towards their unique use of a Theatre Lab setting.
