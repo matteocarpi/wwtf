@@ -89,6 +89,12 @@ team:
   bio: is a graduate in Acting and Dramatic Art from the ESAD Asturias, has been working
     as a performer and director in Spain, Portugal and Germany for over five years.
   biography: ''
+- template: person
+  profile_picture: "/uploads/titas.jpg"
+  name: Titas Dutta
+  biography: finished her post-graduation in performance devising from FLAME School
+    of Performing Arts before joining her LISPA training. She is trained in various
+    traditional Indian movement forms and specialised at personal history in Performance.
 second_title: More about the collective
 
 ---
