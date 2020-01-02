@@ -24,7 +24,7 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
   label: About the Tour
@@ -55,3 +55,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- tour.md

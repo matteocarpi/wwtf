@@ -2,23 +2,37 @@
 label: Home
 hide_body: true
 fields:
-- name: title_for_blog
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: title
+  label: title
+  hidden: true
+- name: logo
+  type: file
+  config:
+    maxSize: 250
+  label: Logo
+- name: first_title
   type: text
   config:
     required: false
-  label: Title For Blog
-  description: Default 'What are we up to?'
-- name: title_for_biography
+  label: Blog Section Title
+- name: about_section_title
   type: text
   config:
     required: false
-  label: Title For Biography
-- name: biography
+  label: About Section Title
+- name: collective_biography
   type: textarea
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
-  label: Biography
+  label: Collective Biography
+pages:
+- index.md
