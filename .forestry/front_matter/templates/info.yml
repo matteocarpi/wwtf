@@ -8,21 +8,26 @@ fields:
 - type: text
   name: email
   label: email
+  hidden: true
 - type: textarea
   name: description
   label: description
 - type: text
   name: baseurl
   label: baseurl
+  hidden: true
 - type: text
   name: url
   label: url
+  hidden: true
 - type: file
   name: logo
   label: logo
 - type: text
   name: markdown
   label: markdown
+  hidden: true
 - type: list
   name: plugins
   label: plugins
+  hidden: true
