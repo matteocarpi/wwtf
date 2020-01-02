@@ -1,21 +1,33 @@
 ---
 label: About
-hide_body: true
+hide_body: false
 fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: title
+  label: title
+  hidden: true
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
 - name: page_title
   type: text
   config:
     required: false
-  label: Page Title
-- name: team
+  label: Title
+- name: team_members
   type: blocks
-  label: Team
+  label: Team Members
   template_types:
-  - person
+  - team-member
   config:
     min: 
     max: 
-- name: second_title
+- name: biography_title
   type: text
   config:
     required: false
@@ -25,7 +37,17 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
   label: Collective Biography
+- name: partners
+  type: blocks
+  label: Partners
+  template_types:
+  - partnter
+  config:
+    min: 
+    max: 
+pages:
+- about.md
