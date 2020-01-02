@@ -24,8 +24,8 @@ tour_dates:
   end_date: 2020-01-16 04:30:00 +0530
   location: Onolulu
 - template: tour-date
-  start_date: 
-  end_date: 
-  location: ''
+  start_date: 2020-02-05 04:30:00 +0530
+  end_date: 2020-03-26 04:30:00 +0530
+  location: Barbados
 
 ---
