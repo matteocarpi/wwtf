@@ -104,6 +104,24 @@ team:
     to Berlin where he studied at the London International School of Performing Arts
     (LISPA). He is now working as a theatre practitioner internationally and co-founder
     of Gut Buddies Theatre.
+- template: person
+  profile_picture: "/uploads/julia.jpg"
+  name: Julia Vandehof
+  biography: is actress, director and a theatre pedagogue. She is drawn to the mythical
+    and dream-like spaces and the dark side of the moon, interested in interdisciplinary
+    performance, she works with body, collective devising and collaborative work.
+- template: person
+  profile_picture: ''
+  name: ''
+  biography: ''
+- template: person
+  profile_picture: ''
+  name: ''
+  biography: ''
+- template: person
+  profile_picture: ''
+  name: ''
+  biography: ''
 second_title: More about the collective
 
 ---
