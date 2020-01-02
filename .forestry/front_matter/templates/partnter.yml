@@ -13,3 +13,12 @@ fields:
   config:
     required: false
   label: Name
+- name: biography
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Biography
