@@ -111,13 +111,17 @@ team:
     and dream-like spaces and the dark side of the moon, interested in interdisciplinary
     performance, she works with body, collective devising and collaborative work.
 - template: person
-  profile_picture: ''
-  name: ''
-  biography: ''
+  profile_picture: "/uploads/matteo.jpg"
+  name: Matteo Carpi
+  biography: trained at the “Royal Central School of Speech and Drama”. He also studied
+    music and trained in Linklater’s Voice method “Freeing the Natural Voice”. He’s
+    been working as musician, performer, video-maker and web-developer.
 - template: person
-  profile_picture: ''
-  name: ''
-  biography: ''
+  profile_picture: "/uploads/gina.jpg"
+  name: Gina Battle Oliva
+  biography: had graduated in Dramatic Arts from The El Timbal, Barcelona. Her work
+    evolves from her interest and practice in street performing arts, theatre plays
+    and opera singing.
 - template: person
   profile_picture: ''
   name: ''
