@@ -7,15 +7,12 @@ sections:
 - type: document
   path: tour.md
   label: Tour
-  match: "**/*"
 - type: document
   path: about.md
   label: About
-  match: "**/*"
 - type: document
   path: index.md
   label: Home
-  match: "**/*"
 - type: document
   path: _data/navigation.yml
   label: Top Bar
