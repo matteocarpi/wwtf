@@ -15,3 +15,5 @@ fields:
   config:
     required: false
   label: Title
+pages:
+- blog.md
