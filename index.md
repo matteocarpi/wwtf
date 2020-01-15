@@ -7,7 +7,7 @@ title_for_biography: Who are we?
 team_picture: "/uploads/Whilst Walking Team.jpg"
 biography: "\nThe Whilst Walking Collective is an international group of theatre-makers
   who create performances and workshops around the world. Their unique process and
-  style have given them cross-continental success through touring and teaching devised
+  style have gi ven them cross-continental success through touring and teaching devised
   theatre. \n\nThe seven artists originate from Austria, England, Italy, Spain and
   India. They met during their training at The London International School of Performing
   Arts, a school now based Berlin (as Arthaus.Berlin) and well-known for its unique
