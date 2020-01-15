@@ -52,18 +52,23 @@ team_members:
     'Process of a Performer' and in 2012, won the Short & Sweet Theatre Festival (Delhi)
     in the Best Play and Best Director categories.
 biography_title: More about the collective
-collective_biography: |-
-  The Whilst Walking Theatre Festival includes performances, theatrical experiments, and workshops, all pointing towards their unique use of a Theatre Lab setting.
-
-  The Showcase is informed and inspired by the performer’s contemporary European contexts, alongside myths and the personal stories of the creators. The collective is for the first time present in front of Indian audiences exploring the universal appeal of creation methods.
-
-  At the heart of the work is an exploration of physical ensemble in performance. By using the body as a physical tool for creation, they explore the idea of a collective unconscious. In connection with their training, they are a group that searches for organic, historical and mythical means of communication through the body in theatre.
-
-  By being in a foreign context, the showcase becomes an intercultural exchange, inviting precise feedback that will develop the company’s strategies to question the function of performance worldwide.
-
-  The festival will offer Workshops exploring the devising process used by the collective. But like with every devising group, the collective has a way of working that is malleable and welcoming to the participation of new members. This is a way for the group to share their methods of theatrical creation with young to mid-career artistes across India to evolve their shared performance vocabulary.
-
-  The collective hopes that the exchanges with participants along the way will subsequently develop even the work that we present in each respective city.
+collective_biography: "The Whilst Walking Collective is an international group of
+  theatre-makers who create performances and workshops around the world. Their unique
+  process and style have given them cross-continental success through touring and
+  teaching devised theatre. \n\nOur work is informed and inspired by the performer’s
+  contemporary European contexts, alongside myths and the personal stories of the
+  creators. The collective embarked on a national tour of India in 2019, exploring
+  the universal appeal of creation methods.\n\nBy being in a foreign context, the
+  'Whilst Walking Theatre Festival' became an intercultural exchange, inviting precise
+  feedback that developed the company’s strategies to question the function of performance
+  worldwide.\n\nWe wish to explore the wonderful world of Devised Theatre and some
+  of it’s most playful and creative sides. At the heart of the work is an exploration
+  of the physical ensemble in performance. We see the whole body as a physical tool
+  for creation. Within the frame of play, we will show the participants a large number
+  of techniques and games that we normally use during our creative processes. Delivering
+  workshops to fellow theatre-makers, or those that are new to performance in schools
+  is an essential part of our research. We create a playful environment to collaborate
+  and guide them through our performance practice."
 partners:
 - template: partnter
   logo: "/uploads/COLLABORATORS_LOGO_PROVISIONAL.png"
@@ -74,14 +79,11 @@ partners:
     between different live art practices and its elements – space, time, bodies of
     both performers and spectators."
 - template: partnter
-  logo: "/uploads/GBT-logo.png"
-  name: Gut Buddies Theatre
-  biography: "The company was formed during a master course in Devising Theatre and
-    Performance at LISPA Berlin, in collaboration with Rose Bruford College London.
-    We are a group of interdisciplinary artists who collaborate without the reliance
-    on particular hierarchies.  \n  \nThey create devised performances using a minimal
-    aesthetic, and an artistic language that is malleable and accommodating to our
-    visiting collaborators.  \n  \nTheir first collaborator was a fish from LIDL."
+  logo: "/uploads/Bacterial Factory logo .png"
+  name: 'Bacterial Factory '
+  biography: "###### **Bacterial Factory is an international physical theatre company
+    specialising in absurdist physical comedy.**\n\n###### **They create devised performances
+    using minimal aesthetic and eccentric characters.** \n\n###### "
 team:
 - template: person
   profile_picture: "/uploads/ainhoa.jpg"
@@ -131,4 +133,16 @@ team:
     'Process of a Performer' and in 2012, won the Short & Sweet Theatre Festival (Delhi)
     in the Best Play and Best Director categories.
 second_title: More about the collective
+
 ---
+The Whilst Walking Theatre Festival includes performances, theatrical experiments, and workshops, all pointing towards their unique use of a Theatre Lab setting.
+
+The Showcase is informed and inspired by the performer’s contemporary European contexts, alongside myths and the personal stories of the creators. The collective is for the first time present in front of Indian audiences exploring the universal appeal of creation methods.
+
+At the heart of the work is an exploration of physical ensemble in performance. By using the body as a physical tool for creation, they explore the idea of a collective unconscious. In connection with their training, they are a group that searches for organic, historical and mythical means of communication through the body in theatre.
+
+By being in a foreign context, the showcase becomes an intercultural exchange, inviting precise feedback that will develop the company’s strategies to question the function of performance worldwide.
+
+The festival will offer Workshops exploring the devising process used by the collective. But like with every devising group, the collective has a way of working that is malleable and welcoming to the participation of new members. This is a way for the group to share their methods of theatrical creation with young to mid-career artistes across India to evolve their shared performance vocabulary.
+
+The collective hopes that the exchanges with participants along the way will subsequently develop even the work that we present in each respective city.
