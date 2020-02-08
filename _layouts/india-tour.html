@@ -3,6 +3,20 @@ layout: default
 ---
 
 <h1>{{ page.page_title }}</h1>
+
+<div class="tour-dates">
+  {% for item in site.data.gigs %}
+    {% if item.published == true %}
+    <div class="tour-date">
+
+      <a href="{{ item.link }}" target="_blank"><span class="tour-date">{{ item.date }} - <strong>{{ item.place }}</strong> - <em> {{ item.format }}</em></span></a>
+
+    </div>
+      {% endif %}
+  {% endfor %}
+</div>
+
+
 {% for post in site.posts %}
 <div class="post-preview">
   <a href="{{ post.permalink }}"><h2>{{ post.title }}</h2><a>
