@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+permalink: '/'
 logo: "/uploads/logo.png"
 title_for_blog: ''
 title_for_biography: Who are we?
