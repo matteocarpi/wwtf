@@ -1,8 +1,8 @@
 ---
-layout: tour
+layout: workshops
 title: Tour Details
-permalink: "/tour"
-page_title: Tour Details
+permalink: "/workshops"
+page_title: Workshops Details
 about_the_tour: "The Showcase is informed and inspired by the performer’s contemporary
   European contexts, alongside myths and the personal stories of the creators. The
   collective is for the first time present in front of Indian audiences exploring
