@@ -13,19 +13,8 @@ about_the_tour: "The Showcase is informed and inspired by the performer’s cont
   of theatrical creation with young to mid-career artistes across India to evolve
   their shared performance vocabulary."
 booking_section_title: Booking
-contacts: |-
-  #### +91 84 520 59 383
-
-  #### [thethecollaboratorsws@gmail.com](mailto:thecollaboratorsws@gmail.com)
-facebook_link: https://www.facebook.com/Whilst-Walking-Theatre-Festival-2288132128109986/
-tour_dates:
-- template: tour-date
-  start_date: 2020-01-09 04:30:00 +0530
-  end_date: 2020-01-16 04:30:00 +0530
-  location: Onolulu
-- template: tour-date
-  start_date: 2020-02-05 04:30:00 +0530
-  end_date: 2020-03-26 04:30:00 +0530
-  location: Barbados
+contacts: "#### niallfallon1994@gmail.com"
+facebook_link: ''
+tour_dates: []
 
 ---
