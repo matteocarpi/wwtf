@@ -2,11 +2,10 @@
 layout: default
 ---
 <img class="logo-home" src="{{ site.logo }}" alt="">
-<a href="/tour"><button class="btn-tour" type="button" name="button">Tour Dates</button></a>
 <h1>{{ page.title_for_blog }}</h1>
 <hr>
 
-<div class="latest-post-container">
+{%- comment -%} <div class="latest-post-container">
   <a href="{{ site.posts.first.permalink }}"><h2>{{ site.posts.first.title }}</h2></a>
   <h3 class="date">{{ site.posts.first.date | date_to_long_string }} {% if site.posts.first.location %} - {{ site.posts.first.location }} {% endif %} </h3>
   <img src="{{ site.posts.first.image }}" alt="">
@@ -14,9 +13,9 @@ layout: default
     <br>
     {{ site.posts.first.content | truncatewords: 75}} <a href="{{ site.posts.first.permalink }}">Read More</a>
   </div>
-</div>
+</div> {%- endcomment -%}
 
-<a href="/india-tour"><button type="button" name="button">Back to India Tour</button></a>
+{%- comment -%} <a href="/india-tour"><button type="button" name="button">Back to India Tour</button></a> {%- endcomment -%}
 
 <div class="about">
   <h1>{{ page.title_for_biography }}</h1>
