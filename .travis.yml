@@ -9,7 +9,7 @@ cache:
     - node_modules
 
 script:
-  - bundle exec jekyll build
+  - jekyll build
 
 deploy:
   skip_cleanup: true
