@@ -17,7 +17,7 @@ biography: "\nThe Whilst Walking Collective is an international group of theatre
   creation, we merge individual expression with thought-provoking and accessible productions.
   The members of the collective have been teaching workshops for over a decade, inspiring
   (and being inspired by) participants who develop our artistic practice. Our work
-  often combines physical comedy, tragedy, personal storytelling, and even multimedia.
+  often combines physical comedy, tragedy, personal storytelling, and even multimedia...
   \n"
 published: true
 
