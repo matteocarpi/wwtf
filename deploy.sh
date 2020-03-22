@@ -17,6 +17,6 @@ if [ "$TRAVIS_BRANCH" = "master" ]; then
         --message="$TRAVIS_BRANCH@$(git rev-parse --short HEAD)" \
         --auth="$NETLIFY_AUTH_TOKEN" \
         --site="$NETLIFY_SITE_ID" \
-        --dir=public \
+        --dir=_site \
         --prod
 fi
